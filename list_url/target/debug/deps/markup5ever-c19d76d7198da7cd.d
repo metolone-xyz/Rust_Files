@@ -1,0 +1,15 @@
+/Users/metolone/Rust_Files/list_url/target/debug/deps/markup5ever-c19d76d7198da7cd.rmeta: /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/lib.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/data/mod.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/mod.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/tree_builder.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/serialize.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/buffer_queue.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/smallcharset.rs /Users/metolone/Rust_Files/list_url/target/debug/build/markup5ever-4fdb29843a6a7798/out/generated.rs /Users/metolone/Rust_Files/list_url/target/debug/build/markup5ever-4fdb29843a6a7798/out/named_entities.rs
+
+/Users/metolone/Rust_Files/list_url/target/debug/deps/markup5ever-c19d76d7198da7cd.d: /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/lib.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/data/mod.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/mod.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/tree_builder.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/serialize.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/buffer_queue.rs /Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/smallcharset.rs /Users/metolone/Rust_Files/list_url/target/debug/build/markup5ever-4fdb29843a6a7798/out/generated.rs /Users/metolone/Rust_Files/list_url/target/debug/build/markup5ever-4fdb29843a6a7798/out/named_entities.rs
+
+/Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/lib.rs:
+/Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/data/mod.rs:
+/Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/mod.rs:
+/Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/tree_builder.rs:
+/Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/serialize.rs:
+/Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/buffer_queue.rs:
+/Users/metolone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/smallcharset.rs:
+/Users/metolone/Rust_Files/list_url/target/debug/build/markup5ever-4fdb29843a6a7798/out/generated.rs:
+/Users/metolone/Rust_Files/list_url/target/debug/build/markup5ever-4fdb29843a6a7798/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/Users/metolone/Rust_Files/list_url/target/debug/build/markup5ever-4fdb29843a6a7798/out
